@@ -1,4 +1,4 @@
-![Help](https://github.com/user-attachments/assets/253c8500-3321-4f47-ad15-fd3594be0aaa)
+![Help](https://github.com/user-attachments/assets/f9fee6ac-6db2-4074-b660-ed2e7f07f0ef)
 
 > Plan, develop and simulate help-based software.
 #
